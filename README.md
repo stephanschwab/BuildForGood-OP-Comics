@@ -27,7 +27,14 @@ Each comic is also released as an NFT edition:
 - Making Optimism fun and accessible through visual storytelling
 
 
----
 
 ## 📜 License
 This repository is licensed under the [MIT License](./LICENSE).
+
+## 🌍 BuildForGood Ecosystem  
+This project is part of the BuildForGood Ecosystem for Optimism.  
+
+📖 Books & Articles • 🕹 Games • 🖼 NFTs & Memes • 🌍 Onchain Artifacts • 🎥 Media  
+
+🔗 Explore the full ecosystem: [BuildForGood Ecosystem on Optimism Atlas](https://atlas.optimism.io/profile/organizations/BuildForGood%20Ecosystem)
+
