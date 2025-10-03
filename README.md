@@ -1,5 +1,5 @@
 # BuildForGood-OP-Comics
-
+📌 This project is part of the BuildForGood ecosystem — a multi-project public goods initiative for Optimism.
 OP Comics is a cultural project within the BuildForGood ecosystem:  
 Optimism-themed comics published in PDF format and connected with NFT editions.
 
